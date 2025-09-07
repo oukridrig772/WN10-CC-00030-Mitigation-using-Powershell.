@@ -1,0 +1,1 @@
+# WN10-CC-00030-Mitigation-using-Powershell.
